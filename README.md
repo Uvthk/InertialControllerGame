@@ -42,7 +42,8 @@ This repository contains a project for designing and developing a computer game 
 ## Game Controls
 
 - Move left/right: Tilt the controller (pitch) or use `A`/`D` keys.
-- Pause: Press the button on the controller or the `SPACE` key.
+- Shoot: Press the button on the controller or the `J` key.
+- Pause: Press the `SPACE` key.
 
 ## Credits
 
